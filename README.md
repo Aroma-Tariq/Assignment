@@ -14,4 +14,5 @@ Steps for free heroku deployment:<br/>
 2- install heroku cli using > sudo snap install --classic heroku ( ref https://devcenter.heroku.com/articles/heroku-cli) <br/>
 3- heroku login (run this command on terminal for login)<br/>
 4- open your terminal in assignment folder where your dockerfile exit.<br/>
+5- You're ready
 
